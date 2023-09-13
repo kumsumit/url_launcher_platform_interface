@@ -153,7 +153,7 @@
     },
     {
       "name": "mockito",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/mockito-5.4.2",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -171,7 +171,7 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-1d6e1c5fae93958d50ce0595ef687d8195088d21/",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -263,10 +263,10 @@
       "name": "url_launcher_platform_interface",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-12T04:39:02.184408Z",
+  "generated": "2023-09-12T07:05:06.547107Z",
   "generator": "pub",
   "generatorVersion": "3.1.1"
 }
